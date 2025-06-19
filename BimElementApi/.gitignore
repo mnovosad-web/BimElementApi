@@ -1,0 +1,26 @@
+# Build and publish
+bin/
+obj/
+*.user
+*.suo
+
+# Rider
+.idea/
+*.DotSettings
+
+# Logs
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# User secrets (optional)
+secrets.json
+
+# Build output
+*.dll
+*.exe
+
+# Others
+*.db
